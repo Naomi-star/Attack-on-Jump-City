@@ -16,5 +16,17 @@ To install pygame run the following command:\
 To test if it's working, run this example of a pygame:\
 `python3 -m pygame.examples.aliens`
 
-If the above steps went well, you are all set to download the JumpCity folder and run your game on your favourite code editor!
+If the above steps went well, you are all set to download the JumpCity folder and run the game on your favorite code editor!
+
+## Controls
+Up Arrow Key - Jump/Dodge
+
+Left Arrow Key - Move left
+
+Right Arrow Key - Move Right
+
+Spacebar - Shoot projectiles
+
+## Character Sprites
+
 
