@@ -44,9 +44,9 @@ Currently, when players win or lose, they are required to manually close and reo
 ## Acknowledgement
 This is a final project for the course [CS460](https://cs460.org/) held at the University of Massachusetts Boston.
 
-I first want to thank Professor Daniel Haehn and teaching assistants Vidhya Sree Narayanappa, Edward Gaibor, Argo Kiernan-Paadre for giving me the opportunity to exercise my problem-solving skills by choosing a final project that I believe has improved my critical thinking, time management and programming skills all at once. As this was the most engaging and liberating computer science course I have taken yet. 
+I would like to thank Professor Daniel Haehn and teaching assistants Vidhya Sree Narayanappa, Edward Gaibor, and Argo Kiernan-Paadre for providing me with the opportunity to enhance my problem-solving abilities through a final project that has significantly improved my critical thinking, time management, and programming skills. This has been the most engaging and liberating computer science course I have taken so far.
 
-For the completion of the project, I owe the backbone of my code to the Youtuber [Tech with Tim](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial) and the Youtuber [Goodgis](https://www.youtube.com/@Goodgis) for giving me the idea to build a pygame as my final project .
+For the completion of the project, I owe the backbone of my code to the Youtuber [Tech with Tim](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial) and the Youtuber [Goodgis](https://www.youtube.com/@Goodgis) for giving me the idea to build a pygame as my final project.
 
 
 
