@@ -33,6 +33,9 @@ Spacebar - Shoot projectiles
 
 If you want to use unique character sprites instead, feel free to create your own sprite sheet using this [link](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_bronze&head=Human_male_bronze&sex=female&eyes=Eyes_brown&dress=none) 
 
+## Possible Improvements
+If I were to further polish this game, I would add the option to select a player based on the other members of the Teen Titans as well as a select enemy feature with varying difficulties. I would add a button to a "restart" button as well because currently when you win/lose the game, you have to manually close and reopen the program which diminishes player satisfaction. 
+
 
 
 
