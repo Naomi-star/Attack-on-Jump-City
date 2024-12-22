@@ -34,7 +34,11 @@ Spacebar - Shoot projectiles
 If you want to use unique character sprites instead, feel free to create your own sprite sheet using this [link](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_bronze&head=Human_male_bronze&sex=female&eyes=Eyes_brown&dress=none) 
 
 ## Possible Improvements
-If I were to further polish this game, I would add the option to select a player based on the other members of the Teen Titans as well as a select enemy feature with varying difficulties. I would add a button to a "restart" button as well because currently when you win/lose the game, you have to manually close and reopen the program which diminishes player satisfaction. 
+If I were to take this game to the next level and refine it further, there are several exciting features I would consider adding to enhance the overall gameplay experience. One significant improvement would be the addition of an option to select a player character from the Teen Titans roster. This would allow players to choose from a variety of familiar and beloved characters, each with their own unique attacks and playstyles.
+
+Additionally, I would incorporate a feature that lets players choose an enemy to face, with varying difficulty levels. This would ensure that the game remains challenging and engaging for all types of players. Players could select an enemy that matches their skill level or opt for a tougher opponent as they improve, making the game feel more dynamic and replayable.
+
+Currently, when players win or lose, they are required to manually close and reopen the game to start again, which can be frustrating and disrupt the flow of the experience. A restart button would streamline the process, allowing players to jump back into the action quickly without unnecessary interruptions. This would significantly improve player satisfaction, making the game feel more polished and user-friendly
 
 
 
