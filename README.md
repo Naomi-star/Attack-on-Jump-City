@@ -41,6 +41,14 @@ Additionally, I would incorporate a feature that lets players choose an enemy to
 Currently, when players win or lose, they are required to manually close and reopen the game to start again, which can be frustrating and disrupt the flow of the experience. A restart button would streamline the process, allowing players to jump back into the action quickly without unnecessary interruptions. This would significantly improve player satisfaction, making the game feel more polished and user-friendly
 
 
+## Acknowledgement
+This is a final project for the course [CS460](https://cs460.org/) held at the University of Massachusetts Boston.
+
+I first want to thank Professor Daniel Haehn and teaching assistants Vidhya Sree Narayanappa, Edward Gaibor, Argo Kiernan-Paadre for giving me the opportunity to exercise my problem-solving skills by choosing a final project that I believe has improved my critical thinking, time management and programming skills all at once. As this was the most engaging and liberating computer science course I have taken yet. 
+
+For the completion of the project, I owe the backbone of my code to the Youtuber [Tech with Tim](https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial) and the Youtuber [Goodgis](https://www.youtube.com/@Goodgis) for giving me the idea to build a pygame as my final project .
+
+
 
 
 
