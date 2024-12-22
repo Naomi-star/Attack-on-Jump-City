@@ -28,5 +28,12 @@ Right Arrow Key - Move Right
 Spacebar - Shoot projectiles
 
 ## Character Sprites
+<img src="https://github.com/user-attachments/assets/3b5a54b6-db0c-47a1-b22e-678f9daa5154" alt="standing" width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/957aec3d-a1b5-4780-b91c-d7b3f266ba1d" alt="Standing_Slade" width="200" height="200"/>
+
+
+
+
+
 
 
