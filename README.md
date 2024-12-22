@@ -3,7 +3,8 @@
 ### Welcome to this dodge-and-destroy game!
 ![image](https://github.com/user-attachments/assets/ecf3ea13-28e9-4f5a-a3ee-4dedae77be74)
 # Description
-_Attack on Jump City_ is a Teen Titian-inspired dodge-based shoot game where you play as Starfire as she uses her green starbolts to hit the enemy Slade while jumping over him to dodge his attacks.
+_Attack on Jump City_ is an exciting, Teen Titans-inspired, dodge-based shooting game that puts players in the role of Starfire, one of the members of the Teen Titans. In this game, Starfire uses her powerful green starbolts to take on the notorious villain Slade. As Starfire, players must strategically aim and fire her starbolts at Slade while also jumping over his attacks to avoid being hit. The game tests players' abilities by requiring a blend of sharp reflexes, precise timing, and strategic decision-making to achieve victory. Are you up for the challenge?!
+
 
 # Installation
 To run this game, you need to have the latest version of [Python](https://www.python.org/downloads/) on your device and pygame installed.
