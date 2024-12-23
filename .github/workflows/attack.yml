@@ -26,3 +26,4 @@ jobs:
       with:
         branch: gh-pages
         folder: JumpCity/build/web
+        token: ${{ secrets.GITHUB_TOKEN }}
