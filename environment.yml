@@ -1,12 +1,10 @@
 channels:
   - defaults
   - conda-forge
-
 dependencies:
+  - python=3.9
   - flake8
   - conda
-  - python=3.9  # or your specific Python version
 
-# To use the classic solver, set it in the config
-  - conda-config:
-      solver: classic
+
+
