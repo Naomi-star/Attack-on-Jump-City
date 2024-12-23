@@ -22,7 +22,7 @@ hitSound = pygame.mixer.Sound('hit.wav')
 hitSound.set_volume(1.0)
 collisionSound = pygame.mixer.Sound('swordslash.wav')
 
-music = pygame.mixer.music.load('music.mp3')
+music = pygame.mixer.music.load('music.ogg')
 pygame.mixer.music.play(-1)
 pygame.mixer.music.set_volume(0.5)
 score = 0 
