@@ -26,4 +26,5 @@ jobs:
         with:
           branch: gh-pages
           folder: JumpCity/build/web
+          token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
