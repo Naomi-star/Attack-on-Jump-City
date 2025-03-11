@@ -19,7 +19,6 @@ To test if it's working, run this example of a pygame:\
 
 If the above steps went well, you are all set to download the JumpCity folder and run the game on your favorite code editor!
 
-Unfortunately, I am not able to host it on github pages after making several attempts
 
 ## Controls
 Up Arrow Key - Jump/Dodge
